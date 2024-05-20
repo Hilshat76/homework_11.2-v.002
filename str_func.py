@@ -13,4 +13,4 @@ def str_title(original_text):
     :param original_text: Исходный текст
     :return: Преобразованный текст
     """
-    return original_text.title()ext.upper()
+    return original_text.title()
